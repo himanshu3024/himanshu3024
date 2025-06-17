@@ -68,8 +68,9 @@ I'm a passionate **Cloud Computing PG student** at George Brown College and a ce
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshu3024&theme=github-compact&area=true&hide_border=false" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3024&theme=dracula&hide_border=true&area=true" />
 </p>
+
 
 ---
 
