@@ -159,7 +159,3 @@ I once fixed a Kubernetes cluster at midnight with nothing but a terminal and de
 ## 🤝 Let’s Build the Future  
 
 Got a wild cloud idea? Let’s make it happen! Hit me up via [email](mailto:gandhi111000@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/himanshu-gandhi-891204160/).  
-
----
-
-*Last Updated: 03:29 PM EDT, Tuesday, June 17, 2025*
