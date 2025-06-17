@@ -1,4 +1,4 @@
-# <div align="center">🌩️ Himanshu Gandhi | Cloud Maestro & Future Architect</div>
+# <div align="center">🌩️ Himanshu Gandhi | Cloud Computing Student</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Toronto,%20Canada-FF2D55?style=for-the-badge&logo=map-pin&logoColor=white" />
@@ -84,9 +84,7 @@ I’m forging the next generation of cloud infrastructure, pushing boundaries wi
 
 ## 🌟 Featured Cloud Projects
 
-- **[CloudSync](https://github.com/himanshu3024/cloudsync)**: A multi-cloud orchestration tool for seamless AWS, Azure, and GCP integration.
-- **[ServerlessPulse](https://github.com/himanshu3024/serverlesspulse)**: A serverless monitoring dashboard using AWS Lambda and CloudWatch.
-- **[SecureCloud](https://github.com/himanshu3024/securecloud)**: A zero-trust security framework with Terraform and Azure AD.
+- **Under Update**
 
 ---
 
@@ -94,14 +92,14 @@ I’m forging the next generation of cloud infrastructure, pushing boundaries wi
 
 <div align="center">
   <a href="mailto:gandhi111000@hotmail.com"><img src="https://img.shields.io/badge/Email-gandhi111000%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/himanshu-gandhi3024"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Gandhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/himanshu-gandhi3024](https://www.linkedin.com/in/himanshu-gandhi-891204160/)"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Gandhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/himanshu3024"><img src="https://img.shields.io/badge/GitHub-himanshu3024-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-himanshugandhi.com-FF6F61?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://yellow-forest-08fad6510.6.azurestaticapps.net/"><img src="https://img.shields.io/badge/Portfolio-himanshugandhi.com-FF6F61?style=for-the-badge&logo=web&logoColor=white" /></a>
 </div>
 
 ---
 
-## 💭 My 2040 Vision
+## 💭 My Quote
 
 > “The cloud is more than infrastructure—it’s the pulse of tomorrow’s world. I’m architecting systems that don’t just scale, but soar, blending innovation, resilience, and intelligence to shape a future where every bit dances in harmony.”
 
