@@ -40,22 +40,39 @@ I'm a passionate **Cloud Computing PG student** at George Brown College and a ce
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu3024&show_icons=true&theme=radical" alt="himanshu3024 stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3024&layout=compact&theme=radical" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=himanshu3024&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu3024&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Himanshu's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3024&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages Used" height="200"/>
 </p>
 
 ---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=himanshu3024&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=monokai&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshu3024&theme=github-compact&area=true&hide_border=false" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 
 ### 📫 Let's Connect
 
