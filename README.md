@@ -56,6 +56,7 @@ I’m forging the next generation of cloud infrastructure, pushing boundaries wi
 
 ---
 
+
 ## 📊 GitHub Constellation
 
 <div align="center">
@@ -64,15 +65,19 @@ I’m forging the next generation of cloud infrastructure, pushing boundaries wi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu3024&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=true&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=default&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3024&theme=react-dark&hide_border=true&area=true&custom_title=Cloud%20Code%20Orbit" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3024&theme=react-dark&hide_border=true&area=true&custom_title=Cloud%20Code%20Orbit" alt="Activity Graph" width="500"/>
 </div>
 
 ---
