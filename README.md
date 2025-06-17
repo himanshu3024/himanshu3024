@@ -60,24 +60,24 @@ I’m forging the next generation of cloud infrastructure, pushing boundaries wi
 ## 📊 GitHub Constellation
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu3024&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3024&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu3024&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3024&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" width="400"/>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=true&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=default&hide_border=true&border_radius=12" />
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=true&border_radius=15" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=default&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" width="600"/>
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=onedark&no-frame=true&row=2&column=5&margin-w=20&margin-h=20" alt="GitHub Trophies" width="600"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3024&theme=react-dark&hide_border=true&area=true&custom_title=Cloud%20Code%20Orbit" alt="Activity Graph" width="500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3024&theme=react-dark&hide_border=true&area=true&custom_title=Cloud%20Code%20Orbit" alt="Activity Graph" width="700"/>
 </div>
 
 ---
