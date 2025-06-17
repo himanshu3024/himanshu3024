@@ -99,14 +99,14 @@ I’m crafting cutting-edge cloud solutions with a mix of creativity and precisi
 
 ## 🌟 Featured Projects  
 
-- **[MyPortfolio](https://github.com/himanshu3024/My-New-Portfolio)**: 
-- **[SavoirE-commerce](https://github.com/himanshu3024/Savoir)**: 
-- **[FeedbackJourney](https://github.com/himanshu3024/Prismatic-Feedback-Journey)**: 
+- **[MyPortfolio](https://github.com/himanshu3024/My-New-Portfolio)**:  
+- **[SavoirE-commerce](https://github.com/himanshu3024/Savoir)**:  
+- **[FeedbackJourney](https://github.com/himanshu3024/Prismatic-Feedback-Journey)**:  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu3024&repo=cloudsync&theme=radical&hide_border=true&border_radius=15" />  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu3024&repo=serverlesspulse&theme=radical&hide_border=true&border_radius=15" />  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu3024&repo=securecloud&theme=radical&hide_border=true&border_radius=15" />  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu3024&repo=My-New-Portfolio&theme=radical&hide_border=true&border_radius=15" />  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu3024&repo=Savoir&theme=radical&hide_border=true&border_radius=15" />  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu3024&repo=Prismatic-Feedback-Journey&theme=radical&hide_border=true&border_radius=15" />  
 </div>  
 
 ---
@@ -144,9 +144,6 @@ I’m crafting cutting-edge cloud solutions with a mix of creativity and precisi
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu3024&theme=dracula" alt="Most Commit Language" />  
 </div>  
 
-<div align="center">  
-  <img src="https://streak-stats.demolab.com/?user=himanshu3024&theme=dark&hide_border=true&border_radius=15" alt="Streak Stats" width="600"/>  
-</div>  
 
 ---
 
@@ -159,3 +156,7 @@ I once fixed a Kubernetes cluster at midnight with nothing but a terminal and de
 ## 🤝 Let’s Build the Future  
 
 Got a wild cloud idea? Let’s make it happen! Hit me up via [email](mailto:gandhi111000@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/himanshu-gandhi-891204160/).  
+
+---
+
+*Last Updated: 03:29 PM EDT, Tuesday, June 17, 2025*
