@@ -1,91 +1,177 @@
-<!-- Himanshu Gandhi README.md -->
+# ⚡ HIMANSHU GANDHI
+### `cloud_architect.exe --mode=innovation --location=toronto`
 
-<h1 align="center">Hi 👋, I'm Himanshu Gandhi</h1>
-<h3 align="center">🚀 Cloud Computing | DevOps | Project Management</h3>
-<p align="center">📍 Toronto, Canada | Open to Remote & On-site Roles</p>
-
----
-
-### ☁️ About Me
-I'm a passionate **Cloud Computing PG student** at George Brown College and a certified **Project Manager** from Fleming College. With hands-on experience in **AWS**, **Azure**, **Docker**, and **GitHub Actions**, I bridge the gap between traditional IT and modern cloud infrastructure.
-
----
-
-### 🔧 What I'm Working On
-- 🌐 Cloud-native apps with **Azure Static Web Apps** & **Azure Functions**
-- 🐳 DevOps workflows using **Docker**, **GitHub Actions**
-- ⚙️ Infrastructure as Code via **Terraform** and **Bicep**
-- 📈 Agile project delivery with **Jira** and **Microsoft Project**
+```ascii
+    ╭─────────────────────────────────────────────────╮
+    │  🚀 TRANSFORMING IDEAS INTO CLOUD REALITY       │
+    │  ☁️  Multi-Cloud Solutions Architect            │
+    │  🎯 DevOps Automation Specialist                │
+    │  📊 Agile Delivery Expert                       │
+    ╰─────────────────────────────────────────────────╯
+```
 
 ---
 
-### 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🧬 **SYSTEM OVERVIEW**
+```yaml
+human:
+  name: "Himanshu Gandhi"
+  role: "Cloud Solutions Architect"
+  location: "Toronto, Canada 🇨🇦"
+  mode: "Remote | Hybrid | On-site"
+  status: "🟢 Available for opportunities"
+  
+education:
+  current: "Cloud Computing PG @ George Brown College"
+  certified: "Project Management @ Fleming College"
+  
+mission: |
+  Building tomorrow's infrastructure today through 
+  intelligent automation and scalable cloud solutions
+```
+
+---
+
+## ⚡ **CURRENT OPERATIONS**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 **ACTIVE PROJECTS**
+```bash
+$ kubectl get projects --namespace=himanshu
+NAME                    STATUS    AGE
+azure-cloud-native     Running   90d
+terraform-iac          Running   45d
+devops-pipeline        Running   30d
+k8s-microservices      Running   15d
+```
+
+</td>
+<td width="50%">
+
+### 🎯 **SKILL ACQUISITION**
+```python
+learning_queue = [
+    "AWS Solutions Architect Pro",
+    "Azure DevOps Engineer Expert", 
+    "Kubernetes CKA Certification",
+    "Cloud Security & Compliance"
+]
+progress = "██████████░░" # 83% complete
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ **TECHNOLOGY STACK**
+
+### **☁️ Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### **🔧 DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **💻 Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **🗄️ Data & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-### 🧠 Currently Learning
-- ☁️ **AWS Solutions Architect – Associate**
-- 🔁 **Azure DevOps Engineer Expert**
-- ☸️ **Kubernetes (CKA)**
-- 🔐 **Cloud Security & Compliance**
+## 📊 **SYSTEM METRICS**
+
+<div align="center">
+
+### **⚡ Performance Dashboard**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu3024&show_icons=true&theme=dark&bg_color=0D1117&border_color=30A3DC&icon_color=00D4FF&text_color=FFFFFF&title_color=00D4FF&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3024&layout=compact&theme=dark&bg_color=0D1117&border_color=30A3DC&text_color=FFFFFF&title_color=00D4FF&hide_border=true)
+
+### **🔥 Contribution Heatmap**
+![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu3024&theme=dark&background=0D1117&border=30A3DC&stroke=30A3DC&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
+
+### **🏆 Achievement Unlocked**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15)
+
+</div>
 
 ---
 
-### 📊 GitHub Insights & Stats
+## 🌐 **NETWORK CONNECTIONS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu3024&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Himanshu's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3024&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages Used" height="200"/>
-</p>
+<div align="center">
 
----
+```mermaid
+graph LR
+    A[📧 Email] --> H[👨‍💻 Himanshu]
+    B[💼 LinkedIn] --> H
+    C[🌐 Portfolio] --> H
+    D[📱 GitHub] --> H
+    
+    H --> E[☁️ Cloud Solutions]
+    H --> F[🚀 DevOps Magic]
+    H --> G[📊 Project Success]
+    
+    style H fill:#00D4FF,stroke:#30A3DC,stroke-width:3px
+```
 
-### 🔥 Contribution Streak
+**📫 Establish Connection:**
+- 🚀 **Email**: [gandhi111000@hotmail.com](mailto:gandhi111000@hotmail.com)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/himanshu-gandhi3024)
+- 🌐 **Portfolio**: Coming Soon™
+- 👨‍💻 **GitHub**: You're already here!
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu3024&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
-
-
-
----
-
-### 🏆 GitHub Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=monokai&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3024&theme=dracula&hide_border=true&area=true" />
-</p>
-
+</div>
 
 ---
 
+## 💭 **SYSTEM PHILOSOPHY**
 
-### 📫 Let's Connect
+<div align="center">
 
-- 📧 [gandhi111000@hotmail.com](mailto:gandhi111000@hotmail.com)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 👔 [LinkedIn](https://www.linkedin.com/in/himanshu-gandhi3024)
-- 🧑‍💻 [GitHub](https://github.com/himanshu3024)
+```typescript
+const philosophy = {
+  motto: "Code with purpose, deploy with confidence, scale with intelligence",
+  approach: "Automate everything, monitor everything, improve everything",
+  goal: "Building the infrastructure that powers tomorrow's innovations"
+}
+
+console.log(`🚀 ${philosophy.motto}`)
+```
+
+</div>
 
 ---
 
-### 💬 Quote I Live By
-> “Every line of code, every deployed resource, every sprint — one step closer to becoming a Cloud Architect.”
+<div align="center">
 
+### ⚡ **STATUS: READY TO ARCHITECT THE FUTURE** ⚡
+
+```bash
+$ whoami && echo "Let's build something amazing together!"
+himanshu@cloud:~$ Ready to architect the future
+Let's build something amazing together!
+```
+
+**🎯 Open to opportunities • 🌍 Remote friendly • ☁️ Cloud native • 🚀 Innovation driven**
+
+</div>
+
+---
+
+<sub>🔄 Last updated: `$(date)` • 🛠️ Built with passion and caffeine • ⚡ Powered by endless curiosity</sub>
