@@ -52,7 +52,7 @@ I'm a passionate **Cloud Computing PG student** at George Brown College and a ce
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu3024&theme=tokyonight&hide_border=false&border_radius=10" alt="Himanshu Gandhi's GitHub Streak" />
+  <img src="https://github-contributions.vercel.app/api?username=himanshu3024&theme=tokyonight&width=600&height=150" alt="GitHub contribution chart" />
 </p>
 
 
