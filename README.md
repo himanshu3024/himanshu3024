@@ -68,7 +68,7 @@ I’m forging the next generation of cloud infrastructure, pushing boundaries wi
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu3024&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshu3024&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
