@@ -251,7 +251,13 @@ fun_fact: "I once debugged a Kubernetes cluster at 3 AM
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+  <a href="https://open.spotify.com/user/ruexdce3c1b0z1dsnluk5074s">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ruexdce3c1b0z1dsnluk5074s&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" alt="Spotify Now Playing"/>
+  </a>
+  <!-- Fallback if Spotify widget fails -->
+  <a href="https://open.spotify.com/user/ruexdce3c1b0z1dsnluk5074s">
+    <img src="https://img.shields.io/badge/Spotify-Check_My_Tunes-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" style="display: none;"/>
+  </a>
 </div>
 
 ---
