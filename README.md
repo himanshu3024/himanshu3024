@@ -1,7 +1,7 @@
-# 🚀 Himanshu Gandhi | Cloud Architect & DevOps Trailblazer  
+# 🚀 Himanshu Gandhi | Cloud Computing Student
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
