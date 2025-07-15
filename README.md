@@ -32,7 +32,7 @@
 name: "Himanshu Gandhi"
 location: "Toronto, Canada 🇨🇦"
 education: "George Brown College"
-role: "Cloud Solutions Architect"
+role: "Cloud Computing Student"
 mission: "Building scalable, future-proof cloud infrastructure"
 
 currently_learning:
